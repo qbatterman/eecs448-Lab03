@@ -1,0 +1,21 @@
+body
+{
+ background-color: red;
+}
+
+p
+{
+  color: white;
+  font-family: times;
+  font-size:18pt;
+}
+
+a{
+	color:blue;
+	font-size: 18pt;
+}
+
+a.hover
+{
+  color:green;
+}
